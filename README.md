@@ -1,8 +1,8 @@
-# HP Coin 🪙
+# HP Coin
 
 HP Coin is a lightweight, React-powered blockchain application demonstrating the core principles of a decentralized ledger. It features a custom blockchain implementation, transaction management, and a built-in blockchain explorer.
 
-## ✨ Features
+## Features
 
 - **Custom Blockchain Engine**: Proof-of-Work (PoW) consensus mechanism with adjustable difficulty.
 - **Transaction Management**: Create and broadcast transactions between wallets.
@@ -10,7 +10,7 @@ HP Coin is a lightweight, React-powered blockchain application demonstrating the
 - **Secure Hashing**: Utilizes `crypto-js` for deterministic block hashing.
 - **Modern UI**: A clean, responsive "Blue and White" theme built with React and Tailwind CSS.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ HP Coin is a lightweight, React-powered blockchain application demonstrating the
    npm run dev
    ```
 
-## 🛠️ Built With
+## Built With
 
 - **React**: Frontend UI framework
 - **Tailwind CSS**: Styling and layout
@@ -43,7 +43,7 @@ HP Coin is a lightweight, React-powered blockchain application demonstrating the
 - **Crypto-JS**: Cryptographic primitives
 - **Vite**: Ultra-fast build tool
 
-## ⚙️ Configuration
+## Configuration
 
 - **Difficulty**: You can adjust the mining difficulty in `src/blockchain/Blockchain.ts`.
 - **Mining Reward**: The reward for mining a new block can be configured in the same file.
