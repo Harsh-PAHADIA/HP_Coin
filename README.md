@@ -49,4 +49,4 @@ HP Coin is a lightweight, React-powered blockchain application demonstrating the
 - **Mining Reward**: The reward for mining a new block can be configured in the same file.
 
 ---
-Built by [Harsh PAHADIA](https://github.com/Harsh-PAHADIA)
+Built by [Harshita PAHADIA](https://github.com/Harsh-PAHADIA)
